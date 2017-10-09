@@ -25,7 +25,7 @@ SECRET_KEY = 'j$0(z=w__vv34%&s99#i4%lto@-6-g*nua#x=)^1=0&u#q&wv*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['promagno.pythonanywhere.com']
 
 
 # Application definition
